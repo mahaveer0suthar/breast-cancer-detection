@@ -9,6 +9,23 @@ Aruthor :- ** Mahaveer Suthar
 
 ## Project Structure 
 project-tree
+ - build_dataset.py     
+ - cancernet_arch_raw.png
+ - datasets                                 # Sample Dataset
+ -  - idc
+ - mahaveer
+    - cancernet.py
+    - config.py
+    - __init__.py
+    - __pycache__
+ - output.log
+ - plot.png
+ - README.md
+ - train_model.py
+ 
+## Cancernet Model Architecture 
+![](cancernet_arc_raw.png)
+
 
 ## Tools and Setup for this project
 ## Install virtual environment
