@@ -26,23 +26,23 @@ project-tree
  
 ## Training Log 
 python train_model.py <br /> 
-Found 199818 images belonging to 2 classes.
-Found 22201 images belonging to 2 classes.
-Found 55505 images belonging to 2 classes.
-Epoch 1/40
-6244/6244 [==============================] - 255s 41ms/step - loss: 0.3648 - acc: 0.8453 - val_loss: 0.4504 - val_acc: 0.8062
-Epoch 2/40
-6244/6244 [==============================] - 254s 41ms/step - loss: 0.3382 - acc: 0.8563 - val_loss: 0.3790 - val_acc: 0.8410
-Epoch 3/40
-6244/6244 [==============================] - 253s 41ms/step - loss: 0.3341 - acc: 0.8577 - val_loss: 0.3941 - val_acc: 0.8348
-...
-Epoch 38/40
-6244/6244 [==============================] - 252s 40ms/step - loss: 0.3230 - acc: 0.8636 - val_loss: 0.3565 - val_acc: 0.8520
-Epoch 39/40
-6244/6244 [==============================] - 252s 40ms/step - loss: 0.3237 - acc: 0.8629 - val_loss: 0.3565 - val_acc: 0.8515
-Epoch 40/40
-6244/6244 [==============================] - 252s 40ms/step - loss: 0.3234 - acc: 0.8636 - val_loss: 0.3594 - val_acc: 0.8507
-[INFO] evaluating network...
+Found 199818 images belonging to 2 classes.<br /> 
+Found 22201 images belonging to 2 classes.<br /> 
+Found 55505 images belonging to 2 classes.<br /> 
+Epoch 1/40<br /> 
+6244/6244 [==============================] - 255s 41ms/step - loss: 0.3648 - acc: 0.8453 - val_loss: 0.4504 - val_acc: 0.8062<br /> 
+Epoch 2/40<br /> 
+6244/6244 [==============================] - 254s 41ms/step - loss: 0.3382 - acc: 0.8563 - val_loss: 0.3790 - val_acc: 0.8410<br /> 
+Epoch 3/40<br /> 
+6244/6244 [==============================] - 253s 41ms/step - loss: 0.3341 - acc: 0.8577 - val_loss: 0.3941 - val_acc: 0.8348<br /> 
+...<br /> 
+Epoch 38/40<br /> 
+6244/6244 [==============================] - 252s 40ms/step - loss: 0.3230 - acc: 0.8636 - val_loss: 0.3565 - val_acc: 0.8520<br /> 
+Epoch 39/40<br /> 
+6244/6244 [==============================] - 252s 40ms/step - loss: 0.3237 - acc: 0.8629 - val_loss: 0.3565 - val_acc: 0.8515<br /> 
+Epoch 40/40<br /> 
+6244/6244 [==============================] - 252s 40ms/step - loss: 0.3234 - acc: 0.8636 - val_loss: 0.3594 - val_acc: 0.8507<br /> 
+[INFO] evaluating network...<br /> 
               precision    recall  f1-score   support
  
            0       0.93      0.85      0.89     39808
@@ -52,11 +52,11 @@ Epoch 40/40
    macro avg       0.81      0.85      0.83     55505
 weighted avg       0.86      0.85      0.85     55505
  
-[[33847  5961]
- [ 2402 13295]]
-acc: 0.8493
-sensitivity: 0.8503
-specificity: 0.8470
+[[33847  5961]<br /> 
+ [ 2402 13295]]<br /> 
+acc: 0.8493<br /> 
+sensitivity: 0.8503<br /> 
+specificity: 0.8470<br /> 
  
 ## Cancernet Model Architecture 
 ![](cancernet_arch_raw.png)
