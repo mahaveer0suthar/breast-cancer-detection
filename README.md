@@ -25,7 +25,7 @@ project-tree
  - train_model.py
  
 ## Training Log 
-python train_model.py
+python train_model.py <br /> 
 Found 199818 images belonging to 2 classes.
 Found 22201 images belonging to 2 classes.
 Found 55505 images belonging to 2 classes.
