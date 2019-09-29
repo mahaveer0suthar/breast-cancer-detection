@@ -2,7 +2,8 @@
 > Deep learning repository for trainng and dataset building       > pipelines for breast cancer detection
 ## Project Description 
 In India and over the world, Cancer has become a deadly disease and more and more people are suffering from Cancer and a survey says one in every 30 women suffer from this disease in their lifetime and so basically the project was first thought of because of the increase in cases of breast cancer and one thing which is very important that if we can detect the Cancer at an early stage then there is an increased chances of it getting cured.So this project lays a foundation in making the detection of the cancer automated so that more and more people can get it diagonised early so as get cured.
-Aruthor :- ** Mahaveer Suthar
+
+Aruthor :- **Mahaveer Suthar"
 
 ## Final Results plot
 ![](plot.png)
@@ -11,7 +12,7 @@ Aruthor :- ** Mahaveer Suthar
 project-tree
  - build_dataset.py     
  - cancernet_arch_raw.png
- - datasets                                 # Sample Dataset
+ - datasets                                                                     **# **Sample Dataset
  -  - idc
  - mahaveer
     - cancernet.py
@@ -24,7 +25,7 @@ project-tree
  - train_model.py
  
 ## Cancernet Model Architecture 
-![](cancernet_arc_raw.png)
+![](cancernet_arch_raw.png)
 
 
 ## Tools and Setup for this project
